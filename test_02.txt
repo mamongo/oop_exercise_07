@@ -1,0 +1,7 @@
+import myFigures.bin
+undo
+pop_back
+pop_end
+export myFigures.bin
+y
+exit

@@ -1,0 +1,6 @@
+push_begin square 0 0 1 0 1 1 0 1
+push_begin rectangle 0 0 3 0 3 1 0 1
+exit
+n
+export myFigures.bin
+exit

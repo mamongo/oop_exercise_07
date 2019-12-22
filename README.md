@@ -1,5 +1,5 @@
-# oop_exercize_0*
-### there could be a description
+# oop_exercize_07
+### Фигурный редактор / Figure constructor
 
 ## in bash:
 - "cmake cmakelists.txt"
